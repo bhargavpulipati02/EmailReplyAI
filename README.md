@@ -23,7 +23,7 @@ An intelligent Chrome extension powered by Spring Boot and React that integrates
 - **Mutation Observers** – Detects Gmail changes to inject UI
 - Injects **AI Reply Button** and **Tone Selector** dynamically into Gmail
 
-- demo:
+Demo:
 <img width="1105" alt="image" src="https://github.com/user-attachments/assets/f33ee7ea-6592-4a61-866d-925e373e5223" />
 
 <img width="1095" alt="image" src="https://github.com/user-attachments/assets/c8cfc8f0-1e96-4054-9e25-1ed6234f11a2" />
